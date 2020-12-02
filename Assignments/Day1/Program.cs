@@ -65,7 +65,8 @@ namespace Assignment
                 }
                 else
                 {
-                    throw new ArgumentException("value");
+                    //throw new ArgumentException("value");
+                    Console.WriteLine("u hve enterd wrong Name");
                 }
             }
 
