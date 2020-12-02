@@ -77,7 +77,11 @@ namespace Assignment
                 else
                 {
                     //throw new ArgumentException("value");
+<<<<<<< HEAD
                     Console.WriteLine( "Name should not be empty" );
+=======
+                    Console.WriteLine("u hve enterd wrong Name");
+>>>>>>> a080c355c3fcbe0a22ea9bb220fcda93e0878c02
                 }
             }
 
