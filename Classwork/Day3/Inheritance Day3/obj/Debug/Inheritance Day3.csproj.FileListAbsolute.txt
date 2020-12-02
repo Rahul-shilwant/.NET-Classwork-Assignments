@@ -1,0 +1,7 @@
+D:\Cdac Study\.NET\Inheritance Day3\bin\Debug\Inheritance Day3.exe.config
+D:\Cdac Study\.NET\Inheritance Day3\bin\Debug\Inheritance Day3.exe
+D:\Cdac Study\.NET\Inheritance Day3\bin\Debug\Inheritance Day3.pdb
+D:\Cdac Study\.NET\Inheritance Day3\obj\Debug\Inheritance Day3.csprojAssemblyReference.cache
+D:\Cdac Study\.NET\Inheritance Day3\obj\Debug\Inheritance Day3.csproj.CoreCompileInputs.cache
+D:\Cdac Study\.NET\Inheritance Day3\obj\Debug\Inheritance Day3.exe
+D:\Cdac Study\.NET\Inheritance Day3\obj\Debug\Inheritance Day3.pdb

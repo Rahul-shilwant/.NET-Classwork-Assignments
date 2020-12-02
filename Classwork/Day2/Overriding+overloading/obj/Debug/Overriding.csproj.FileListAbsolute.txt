@@ -1,0 +1,7 @@
+D:\Cdac Study\.NET\Overriding\bin\Debug\Overriding.exe.config
+D:\Cdac Study\.NET\Overriding\bin\Debug\Overriding.exe
+D:\Cdac Study\.NET\Overriding\bin\Debug\Overriding.pdb
+D:\Cdac Study\.NET\Overriding\obj\Debug\Overriding.csprojAssemblyReference.cache
+D:\Cdac Study\.NET\Overriding\obj\Debug\Overriding.csproj.CoreCompileInputs.cache
+D:\Cdac Study\.NET\Overriding\obj\Debug\Overriding.exe
+D:\Cdac Study\.NET\Overriding\obj\Debug\Overriding.pdb
